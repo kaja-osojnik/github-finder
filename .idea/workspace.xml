@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2a9a9c03-758b-4ec6-acfe-22cc52cc9f58" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/netlify.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/pages/Home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/pages/NotFound.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/context/alert/AlertContext.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/context/alert/AlertReducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/context/alert/AlertState.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/context/github/githubReducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/context/github/githubState.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/context/github/githunContext.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/context/types.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/serviceWorker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/setupTests.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1finpaLMebpABf6kKRRBtiNWQPa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2a9a9c03-758b-4ec6-acfe-22cc52cc9f58" name="Default Changelist" comment="" />
+      <created>1596709963551</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596709963551</updated>
+      <workItem from="1596709965072" duration="2447000" />
+      <workItem from="1596713384625" duration="5615000" />
+      <workItem from="1597052170706" duration="919000" />
+      <workItem from="1597056016239" duration="14722000" />
+      <workItem from="1597303961839" duration="599000" />
+      <workItem from="1597399345440" duration="596000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="599" y="355" width="610" height="403" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1597186171711">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="599" y="355" width="610" height="403" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1597186171711" />
+    <state x="684" y="292" width="618" height="522" key="find.popup" timestamp="1597185769215">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="684" y="292" width="618" height="522" key="find.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1597185769215" />
+  </component>
+</project>
